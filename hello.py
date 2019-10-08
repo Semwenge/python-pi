@@ -1,1 +1,3 @@
-print("hello my brother")
+def printi(msg):
+    print(msg)
+printi("Hello everyone")
